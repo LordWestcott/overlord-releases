@@ -1,0 +1,10 @@
+{
+  "latest_version": "v0.1.0",
+  "release_date": "2025-07-14T22:34:34.122Z",
+  "download_urls": {
+    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.0/overlord-windows-amd64.exe"
+  },
+  "checksums": {
+    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.0/overlord-windows-amd64.exe.sha256"
+  }
+}
