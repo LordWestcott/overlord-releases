@@ -1,10 +1,10 @@
 {
-  "latest_version": "v0.1.17",
-  "release_date": "2025-07-18T12:55:09Z",
+  "latest_version": "v0.1.18",
+  "release_date": "2025-07-18T13:01:53Z",
   "download_urls": {
-    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.17/overlord.exe"
+    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.18/overlord.exe"
   },
   "checksums": {
-    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.17/overlord.exe.sha256"
+    "windows": "https://github.com/LordWestcott/overlord-releases/releases/download/v0.1.18/overlord.exe.sha256"
   }
 }
